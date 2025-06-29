@@ -1,0 +1,90 @@
+S 5
+    ε l FSC BD a
+C 2
+    EF At
+D 1
+    b
+E 1
+    BB
+F 1
+    AD
+B 1
+    c 
+A 1
+    t 
+
+paraules 4 tbcctb ε cb tbc
+
+
+S 2
+    aSb ε
+
+paraules 3 aaaaaaabb aba aaaabbbb
+
+S 2
+    aSb acb
+
+paraules 3 c aaaacbbbb aaacb
+
+S 1
+    AB
+A 2
+    aA ε
+B 2
+    aBb ε
+
+paraules 4 ε a abb aaaabb
+
+S 1
+    AB
+A 2
+    aAb ε
+B 2
+    Bb ε
+
+paraules 3 b aabb aab
+
+S 1
+    AB
+A 2
+    aAbb ε
+B 2
+    Bb ε
+
+paraules 3 aabbbbb aabb bba
+
+S 4
+    aS aSb aSbb ε
+
+paraules 3 aaaaaabb aaabb baaa
+
+S 2
+    aSbb B
+B 3
+    aB ab ε
+
+paraules 3 aaaaaabb aaabb baaa
+
+S 2
+    aaSb A
+A 2
+    aAb ε
+
+paraules 3 aaaaaaaaaaabb  abb aaabb
+
+S 1
+    AB 
+A 2
+    aA ε
+B 2
+    bB ε
+
+paraules 3 aabb ε ba
+
+S 2
+    aSc B
+B 2
+    aBb ε
+
+paraules 3 aaaabccc cccbaaaa aaaaabbcc
+
